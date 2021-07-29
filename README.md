@@ -3,6 +3,8 @@
 <br>
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-green.svg)
+![Swift](https://img.shields.io/badge/Version-14.4-black.svg)
+![Swift](https://img.shields.io/badge/Xcode-12.4-white.svg)
 
 
 
